@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">autocomplete</string>
+    <string name="select_city">select City</string>
+</resources>
